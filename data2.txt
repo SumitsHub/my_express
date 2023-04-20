@@ -1,0 +1,304 @@
+Home,Home
+Orders,Aufträge
+Create,Erstellen
+My orders,Meine Aufträge
+My cahuu,Mein cahuu
+Create Order,Auftrag erstellen
+Orders near you,Aufträge in deiner Nähe
+New Orders,Neue Aufträge
+Support,Support
+Email,Email
+Sort by,Sortieren nach
+nearest,nahe
+newest,neueste
+most expensive,teuerste
+cheapest,günstigste
+KM-Radius,KM-Radius
+Order status,Auftragsstatus
+Only open orders,Nur offene Aufträge
+Service type,Servicetyp
+Vehicle size,Fahrzeuggrösse
+Types of waste,Abfallarten
+Glas,Glas
+Aluminium,Aluminium
+Metal,Metall
+Cooking oil,Speiseöl
+Cardboard,Karton
+Paper,Papier
+Green waste,Grünabfall
+Furniture,Möbel
+Plastics,Plastik
+Styrofoam,Styropor
+Electronical appliances,Elektronik
+Unknown,Unbekannt
+Reset filter,Filter zurücksetzen
+Apply filter,Filter aktivieren
+published x days ago,vor x Tagen veröffentlicht
+User,Benutzer
+Status,Status
+open,offen
+accepted,akzeptiert
+picked up,abgeholt
+delivered,geliefert
+rate,bewerten
+Assembly Needed:,Montage notwendig:
+Disassembly needed:,Demontage notwendig:
+Bulky goods:,Sperrige Ware:
+Goods fit in elevator at delivery,Ware passt in Lift bei Lieferung:
+Goods fit in elevator at pickup,Ware passt in Lift bei Abholung:
+Contactless pickup possible,Kontaktlose Abholung möglich:
+Contactless delivery possible,Kontaktlose Lieferung möglich:
+Transport from A to B,Transport von A nach B
+Disposal & Recycling,Entsorgung & Recycling
+Required vehicle,Benötigte Fahrzeuggrösse
+Pickup details,Abholdetails
+Address,Adresse
+Pickup location,Abholort
+Ground floor,Erdgeschoss
+Floor number:,Stockwerk:
+1 person required,1 Person benötigt
+2 persons required,2 Personen benötigt
+Pickup scheduling,Abholtermin
+Delivery details,Lieferdetails
+Contact Name,Kontaktperson
+Delivery scheduling,Liefertermin
+Date,Datum eingeben
+Accept order,Auftrag akzeptieren
+Order has been confirmed,Der Auftrag wurde akzeptiert
+Important Information,Wichtige Information
+The following goods are not allowed to be processed on the cahuu platform,Die folgenden Waren sind für die Abwicklung auf unserer Plattform nicht erlaubt
+Illegal goods&#10;Hazardous goods&#10;Animals&#10;Humans,Illegale Güter&#10;Gefahrengut&#10;Tiere&#10;Menschen
+"Yes, I confirm that I won't not process&#10;these goods","Ja, hiermit bestätige ich, dass ich keine der nicht erlaubten Waren abwickle."
+Disposal & Recycling,Entsorgung & Recycling
+Transport & Removal,Transport & Umzug
+Take or upload pictures,Bilder hochladen
+Continue,Weiter
+Types of waste,Abfallarten
+Types of goods,Art der Ware
+Are there bulky goods?,Sperrige Ware vorhanden?
+Please select types of your waste,Bitte Abfallarten auswählen
+Glas,Glas
+Aluminium,Aluminium
+Metal,Metall
+Cooking oil,Speiseöl
+Cardboard,Karton
+Paper,Papier
+Green waste,Grünabfall
+Furniture,Möbel
+Plastics,Plastik
+Styrofoam,Styropor
+Electronical appliances,Elektronik
+Unknown,Unbekannt
+Various,Diverses
+Types of goods,Art der Ware
+Enter pickup address,Abholadresse eingeben
+Your profile address,Deine Profil-Adresse
+Different pickup address?,Andere Abholadresse?
+First and last name / companyname,Vor- und Nachnamen / Firmenname
+Street,Strasse
+Number,Nummer
+Zipcode,Postleitzahl
+City,Ort
+Enter pickup location,Abholort eingeben
+Enter delivery location,Lieferort eingeben
+At the roadside,Am Strassenrand
+In appartment/ house,In Wohnung/ Haus
+In front of the building,Beim Hauseingang
+In store/ office,In Geschäft/ Laden
+In the garden,Im Garten
+In the stairwell,Im Treppenhaus
+Contactless pickup possible?,Kontaklose Abholung  möglich?
+Two persons required,Zwei Personen benötigt
+Please enter floor,Bitte Stockwerk eingeben
+Goods fit in elevator,Ware passt in Lift
+Enter pickup schedule,Abholtermin
+Enter delivery schedule,Liefertermin
+Anytime / as soon as confirmed,Jederzeit / so schnell wie möglich
+Today,Heute
+Select preferred / suitable timeslots,Wähle verfügbare Zeitfenster
+Tomorrow,Morgen
+Fixed date & time,Fixes Datum & Zeit
+For fixed scheduling there should higher fees be&#10;considered.,Für eine fixe Terminierung sollten höhere Gebühren in berücksichtigt werden.
+Enter date,Datum eingeben
+Enter timeslot,Zeitfenster eingeben
+from,von
+to,bis
+Supplementary Services,Zusatzleistungen
+Disassembly,Demontage
+Assembly,Montage
+General informations,Allgemeine Informationen
+Title of your order,Titel zu Auftrag
+Enter title of your order here,Titel zu Auftrag hier eingeben
+Description / details,Beschreibung / Details
+"Enter descrption text here - e.g. ring at Ms. Mullers&#10;door, heavy goods, measures, pickup at ramp of&#10;office etc.","Hier Beschreibungstext eingeben - z.B. Klingeln bei Frau Müller, schwere Ware, Masse, Abholung an der Rampe des&#10;Büro usw."
+Select required vehicle size,Wähle die benötigte Fahrzeuggrösse
+Amount of payment,Betrag der Zahlung
+Recommended payment,Empfohlener Betrag
+Based on your entered order details.,Basierend auf deinen eingegebenen Informationen
+Enter your payment,Betrag für Zahlung eingeben
+Note: a service fee is charged from the specified&#10;amount for processing on cahuu platform.,Hinweis: Von dem angegebenen Betrag wird eine Servicegebühr für die Bearbeitung auf der cahuu-Plattform erhoben.
+There are no additional fees for you.,Es fallen keine weiteren Gebühren für dich an.
+Confirm to place order,Auftrag verbindlich bestätigen
+Active orders,Aktive Aufträge
+Done orders,Abgeschlossene Aufträge
+Carrier,Auftragnehmer
+Status,Status
+Service,Service
+Pickup,Abholung
+Delivery,Lieferung
+Delete,Löschen
+Change,Ändern
+Pause,Pausieren
+Important Information,Wichtige Information
+"Are you sure, that you want&#10;change your order?","Bist du sicher, dass du dein Auftrag ändern möchtest?"
+Please consider terms and fees for change/ cancel or pause accepted orders:,Bitte beachte die Bedingungen und Gebühren&#10;für Änderungen/Stornierungen oder Unterbrechungen von&#10;akzeptierten Aufträgen
+Until 24 hours before scheduled pickup&#10;10% fee of order payment will be&#10;charged,Bis 24 Stunden vor der geplanten Abholung&#10;wird eine Gebühr von 10% deiner Zahlung&#10;verrechnet
+After 24 hours before scheduled pickup&#10;50% fee of order payment will be&#10;charged,Nach 24 Stunden vor der geplanten Abholung&#10;wird eine Gebühr von 50% deiner Zahlung&#10;verrechnet
+2 hours before scheduled pickup 100%&#10;fee of order payment will be charged,2 Stunden vor der geplanten Abholung wird 100%&#10;von deiner Zahlung verrechnet
+"No, I don't want to&#10;cancel.","Nein, ich möchte nicht stornieren."
+"Yes, cancel.&#10;I accept the terms","Ja, ich akzeptiere die Bedingungen und allfällige Gebühren."
+Confirmation!,Bestätigung
+Are you sure to pickup,Möchtest du deine Abholung bestätigen?
+Yes,Ja
+No,Nein
+Order delivered?,Auslieferung Bestätigen
+Upload Picture to verify order,Bitte ein Bild am Abgabeort hochladen zur Verifizierung
+Cancel,Abbrechen
+Confirm execution,Ausführung bestätigen
+Rate order,Auftrag bewerten
+Review to x,Bewertung für x
+How was your experience about our product?,Bitte gib eine Bewertung für den Auftragnehmer/ Kunden ab
+Poor,Miserabel
+Too bad,Unbefriedigend
+Why was your experience so bad?,Wieso war der Service nicht gut?
+Average quality,Genügend
+Why was your average rating experience?,Was kann besser gemacht werden?
+Nice,Gut
+Why was your experience good?,Was kann besser gemacht werden?
+Very good qality,Exzellent
+Give a compliment,Gib ein Kompliment ab
+Please enter your review,Bitte gib einen Bewertungstext ein
+Add review,Bewertung bestätigen
+Thank you!,Vielen Dank!
+Important Information,Wichtige Informationen
+"Are you sure, that you want&#10;cancel this order?","Bist du sicher, dass du deinen Auftrag stornieren möchtest?"
+Please consider terms and fees&#10;for cancelling confirmed orders:,Bitte beachte die Bedingungen und allfällige Gebühren für eine Stornierungen:
+Until 24 hours before scheduled pickup&#10;a fee of 20 CHF will be charged.,Bis 24 Stunden vor der geplanten Abholung&#10;wird eine Gebühr von 20 CHF erhoben.
+After 24 hours before scheduled pickup&#10;a fee of 50 CHF will be charged.,Nach 24 Stunden vor der geplanten Abholung&#10;wird eine Gebühr von 50 CHF erhoben.
+"No, I don't want to&#10;cancel.","Nein, ich möchte nicht stornieren."
+"Yes, cancel.&#10;I accept the terms","Ja, ich akzeptiere die Bedingungen und allfällige Gebühren."
+Verified,Verifiziert
+Verify now,Jetzt verifizieren
+Edit my profile,Dein Profil bearbeiten
+Statistics,Statistiken
+Payments,Zahlungen
+Language,Sprache
+Share with friends,Mit Freunden teilen
+Terms and conditions,Allgemeine Geschäftsbedingungen
+Privacy Policy,Datenschutzerklärung
+Support,Support
+Logout,Ausloggen
+Profile type,Profiltyp
+Individual,Privat
+Business,Geschäftlich
+About myself,Über mich
+Let other users know something&#10;about yourself.&#10;E.g. I love the cahuu plattform,Teile etwas über dich für andere Benutzer. Bsp: Ich liebe die cahuu Plattform
+Important: visible for other users,Wichtig: andere Benutzer sehen diesen Eintrag
+Firstname,Vorname
+Lastname,Nachname
+Username,Benutzername
+Email,Email
+Phone,Telefon
+Password,Passwort
+Birthdate,Geburtsdatum
+Address,Adresse
+Street,Strasse
+Number,Nummer
+Zipcode,Postleitzahl
+City,Ort
+Push-Notifications,Benachrichtigungen
+My orders,Meine Aufträge
+New orders,Neue Aufträge
+Delete my profile,Profil löschen
+Companyname,Firmenname
+UID Number,UID Nummer
+Subject to VAT?,Mehrwertsteuerpflichtig?
+VAT number,Mehrwertsteuernummer
+Statistics,Statistiken
+Orders placed,Veröffentlichte Aufträge
+safed time,Gesparte Zeit
+x hours x minutes,x Stunden x Minuten
+Orders done,Erledigte Aufträge
+Earnings,Einnahmen
+Received reviews,Erhaltene Bewertungen
+Language setting,Spracheinstellung
+German,Deutsch
+English,Englisch
+Payments,Zahlungen
+Your payment method,Deine Zahlungsmethode
+Creditcard,Kreditkarte
+First- & Lastname,Vor- und Nachname
+Number,Nummer
+CCV-Code,CCV-Code
+Twint,Twint
+PostFinance,Postfinance
+paymentmethods more words?,paymentmethods more words?
+Receive payment method,Zahlungen emfangen
+"Provide this method only, if you want to execute&#10;orders from others to earn money","Die Details werden nur benötigt, falls du Aufträge auf der Plattform abwickeln möchtest."
+Bankaccount (IBAN),Bankangabe (IBAN)
+Invoice,Rechnung
+paymentmethods more words?,paymentmethods more words?
+No account yet?,Noch keinen Account?
+Register now,Jetzt registrieren
+Create free account and join the cahuu community.,Jetzt kostenlos registrieren und Teil der cahuu Gemeinschaft werden.
+Login,Login
+Email / username,Email / Benutzername
+Password,Passwort
+Forgotten your password?,Passwort vergessen?
+Skip for now,Überspringen
+Login now,Jetzt einloggen
+Reset password,Passwort zurücksetzen
+Enter your username or email,Benutzername oder Email eingeben
+Afterwards a new password will be sent to&#10;your email.,Danach wird dir ein neues Passwort per Email zugestellt.
+Confirm reset,Passwort zurücksetzen bestätigen
+Your password has successfully&#10;been sent to your email address.,Dein Passwort wurde erfolgreich zurückgesetzt.
+Please also check your spam&#10;folder.,Bitte überprüfe ggf. auch dein Spam-Ordner.
+Back to login,Zurück zum Login
+Account information,Account Informationen
+Firstname,Vorname
+Lastname,Nachname
+Username,Benutzername
+Email,Email
+Phone,Telefon
+Password,Passwort
+Birthdate,Geburtsdatum
+Address,Adresse
+Street,Strasse
+Number,Nummer
+Zipcode,Postleitzahl
+City,Ort
+Push-Notifications,Benachrichtigungen
+My orders,Meine Aufträge
+New orders,Neue Aufträge
+Delete my profile,Profil löschen
+Companyname,Firmenname
+UID Number,UID Nummer
+Subject to VAT?,Mehrwertsteuerpflichtig?
+VAT number,Mehrwertsteuernummer
+Your address,Deine Adresse
+Skip for now,Überspringen
+Continue,Weiter
+Payment method,Zahlungsmethode
+Creditcard,Kreditkarte
+Twint,Twint
+Postfinance,Postfinance
+Receive payment method,Zahlungen emfangen
+Provide this method only if you want to execute&#10;orders from others to earn money,Die Details werden nur benötigt falls du Aufträge auf der Plattform abwickeln möchtest.
+Bankaccount (IBAN),Bankangabe (IBAN)
+Invoice,Rechnung
+Verify your account,Verifiziere dein Profil
+We are almost there!,Bald geschafft!
+Now please verify your account&#10;by clicking on the link in the&#10;received email from us.,Bitte verifiziere dein Profil mit dem Link in der erhaltenen Email.
+Please also check your spam&#10;folder.,Bitte überprüfe ggf. auch dein Spam-Ordner.
+I didn't receive email,Ich habe keine Email erhalten.
+Close,Abbrechen

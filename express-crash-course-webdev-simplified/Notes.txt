@@ -1,0 +1,19 @@
+npm i express
+npm i --save-dev nodemon # --save-dev: saves as devDependecy
+npm i ejs: for rendering view in express
+VSCode: ejs language support
+Using values inside html(ejs file):
+    <%= locals.text || 'Default' %>
+
+
+app = express()
+
+app.use() -> 1. Can pass middleware function 2. Can pass routes 3. 
+app.set() -> 1. used to set key value (ex. app.set('view engine', 'ejs'))
+app.get() -> 1. used to get request [GET]
+app.post() -> [POST],  app.put() -> [PUT]: update, app.delete() -> [DELETE]
+app.listen() -> 1. listen on specified port number
+
+router = express.Router(); -> this behaves as an express app with having functionalities of app
+
+router.route().get().put().delete()

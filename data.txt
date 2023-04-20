@@ -1,0 +1,304 @@
+﻿Home,Home
+Orders,Orders
+Create,Create
+My orders,My orders
+My cahuu,My cahuu
+Create Order,Create Order
+Orders near you,Orders near you
+New Orders,New Orders
+Support,Support
+Email,Email
+Sort by,Sort by
+nearest,nearest
+newest,newest
+most expensive,high price
+cheapest,low price
+KM-Radius,KM-Radius
+Order status,Order status
+Only open orders,Only open orders
+Service type,Service type
+Vehicle size,Vehicle size
+Types of waste,Types of waste
+Glas,Glass
+Aluminium,Aluminium
+Metal,Metal
+Cooking oil,Cooking oil
+Cardboard,Cardboard
+Paper,Paper
+Green waste,Green waste
+Furniture,Furniture
+Plastics,Plastics
+Styrofoam,Styrofoam
+Electronical appliances,Electronics
+Unknown,Unknown
+Reset filter,Reset filter
+Apply filter,Apply filter
+published x days ago,published x days ago
+User,User
+Status,Status
+open,open
+accepted,accepted
+picked up,picked up
+delivered,delivered
+rate,rate
+Assembly Needed:,Assembly Needed:
+Disassembly needed:,Disassembly needed:
+Bulky goods:,Bulky goods:
+Goods fit in elevator at delivery,Goods fit in elevator at delivery
+Goods fit in elevator at pickup,Goods fit in elevator at pickup
+Contactless pickup possible,Contactless pickup possible
+Contactless delivery possible,Contactless delivery possible
+Transport from A to B,Transport from A to B
+Disposal & Recycling,Disposal & Recycling
+Required vehicle,Required vehicle
+Pickup details,Pickup details
+Address,Address
+Pickup location,Pickup location
+Ground floor,Ground floor
+Floor number:,Floor number:
+1 person required,1 person required
+2 persons required,2 persons required
+Pickup scheduling,Pickup scheduling
+Delivery details,Delivery details
+Contact Name,Contact Name
+Delivery scheduling,Delivery scheduling
+Date,Date
+Accept order,Accept order
+Order has been confirmed,Order has been confirmed
+Important Information,Important Information
+The following goods are not allowed to be processed on the cahuu platform,The following goods are not allowed to be processed on the cahuu platform
+Illegal goods&#10;Hazardous goods&#10;Animals&#10;Humans,Illegal goods&#10;Hazardous goods&#10;Animals&#10;Humans
+"Yes, I confirm that I won't not process&#10;these goods","Yes, I confirm that I won't not process&#10;these goods"
+Disposal & Recycling,Disposal & Recycling
+Transport & Removal,Transport & Removal
+Take or upload pictures,Take or upload pictures
+Continue,Continue
+Types of waste,Types of waste
+Types of goods,Types of goods
+Are there bulky goods?,Are there bulky goods?
+Please select types of your waste,Please select types of your waste
+Glas,Glass
+Aluminium,Aluminium
+Metal,Metal
+Cooking oil,Cooking oil
+Cardboard,Cardboard
+Paper,Paper
+Green waste,Green waste
+Furniture,Furniture
+Plastics,Plastics
+Styrofoam,Styrofoam
+Electronical appliances,Electronics
+Unknown,Unknown
+Various,Various
+Types of goods,Types of goods
+Enter pickup address,Enter pickup address
+Your profile address,Your profile address
+Different pickup address?,Different pickup address?
+First and last name / companyname,First and last name / companyname
+Street,Street
+Number,Number
+Zipcode,Zipcode
+City,City
+Enter pickup location,Enter pickup location
+Enter delivery location,Enter delivery location
+At the roadside,At the roadside
+In appartment/ house,In appartment/ house
+In front of the building,In front of the building
+In store/ office,In store/ office
+In the garden,In the garden
+In the stairwell,In the stairwell
+Contactless pickup possible?,Contactless pickup possible?
+Two persons required,Two persons required
+Please enter floor,Please enter floor
+Goods fit in elevator,Goods fit in elevator
+Enter pickup schedule,Enter pickup schedule
+Enter delivery schedule,Enter delivery schedule
+Anytime / as soon as confirmed,Anytime / as soon as confirmed
+Today,Today
+Select preferred / suitable timeslots,Select preferred / suitable timeslots
+Tomorrow,Tomorrow
+Fixed date & time,Fixed date & time
+For fixed scheduling there should higher fees be&#10;considered.,For fixed scheduling there should higher fees be&#10;considered.
+Enter date,Enter date
+Enter timeslot,Enter timeslot
+from,from
+to,to
+Supplementary Services,Supplementary Services
+Disassembly,Disassembly
+Assembly,Assembly
+General informations,General informations
+Title of your order,Title of your order
+Enter title of your order here,Enter title of your order here
+Description / details,Description / details
+"Enter descrption text here - e.g. ring at Ms. Mullers&#10;door, heavy goods, measures, pickup at ramp of&#10;office etc.","Enter descrption text here - e.g. ring at Ms. Mullers&#10;door, heavy goods, measures, pickup at ramp of&#10;office etc."
+Select required vehicle size,Select required vehicle size
+Amount of payment,Amount of payment
+Recommended payment,Recommended payment
+Based on your entered order details.,Based on your entered order details.
+Enter your payment,Enter your payment
+Note: a service fee is charged from the specified&#10;amount for processing on cahuu platform.,Note: a service fee is charged from the specified&#10;amount for processing on cahuu platform.
+There are no additional fees for you.,There are no additional fees for you.
+Confirm to place order,Place a binding order
+Active orders,Active orders
+Done orders,Done orders
+Carrier,Carrier
+Status,Status
+Service,Service
+Pickup,Pickup
+Delivery,Delivery
+Delete,Delete
+Change,Change
+Pause,Pause
+Important Information,Important Information
+"Are you sure, that you want&#10;change your order?","Are you sure, that you want&#10;change your order?"
+Please consider terms and fees for change/ cancel or pause accepted orders:,Please consider terms and fees for change/ cancel or pause accepted orders:
+Until 24 hours before scheduled pickup&#10;10% fee of order payment will be&#10;charged,Until 24 hours before scheduled pickup&#10;10% fee of order payment will be&#10;charged
+After 24 hours before scheduled pickup&#10;50% fee of order payment will be&#10;charged,After 24 hours before scheduled pickup&#10;50% fee of order payment will be&#10;charged
+2 hours before scheduled pickup 100%&#10;fee of order payment will be charged,2 hours before scheduled pickup 100%&#10;fee of order payment will be charged
+"No, I don't want to&#10;cancel.","No, I don't want to&#10;cancel."
+"Yes, cancel.&#10;I accept the terms","Yes, cancel.&#10;I accept the terms"
+Confirmation!,Confirmation!
+Are you sure to pickup,Are you sure to confirm pickup?
+Yes,Yes
+No,No
+Order delivered?,Confirm Delivery
+Upload Picture to verify order,Please upload a Picture at drop-off point to verify order
+Cancel,Cancel
+Confirm execution,Confirm execution
+Rate order,Rate order
+Review to x,Review to x
+How was your experience about our product?,Please rate your carrier/ client
+Poor,
+Too bad,Unsatisfying
+Why was your experience so bad?,Why was your experience so bad?
+Average quality,Sufficient
+Why was your average rating experience?,What can be done better?
+Nice,Nice
+Why was your experience good?,What can be done better?
+Very good qality,Excellent
+Give a compliment,Give a compliment
+Please enter your review,Please enter your review
+Add review,Confirm review
+Thank you!,Thank you!
+Important Information,Important Information
+"Are you sure, that you want&#10;cancel this order?","Are you sure, that you want&#10;cancel this order?"
+Please consider terms and fees&#10;for cancelling confirmed orders:,Please consider terms and fees&#10;for cancelling confirmed orders:
+Until 24 hours before scheduled pickup&#10;a fee of 20 CHF will be charged.,Until 24 hours before scheduled pickup&#10;a fee of 20 CHF will be charged.
+After 24 hours before scheduled pickup&#10;a fee of 50 CHF will be charged.,After 24 hours before scheduled pickup&#10;a fee of 50 CHF will be charged.
+"No, I don't want to&#10;cancel.","No, I don't want to&#10;cancel."
+"Yes, cancel.&#10;I accept the terms","Yes, cancel.&#10;I accept the terms"
+Verified,Verified
+Verify now,Verify now
+Edit my profile,Edit my profile
+Statistics,Statistics
+Payments,Payments
+Language,Language
+Share with friends,Share with friends
+Terms and conditions,Terms and conditions
+Privacy Policy,Privacy Policy
+Support,Support
+Logout,Logout
+Profile type,Profile type
+Individual,Individual
+Business,Business
+About myself,About myself
+Let other users know something&#10;about yourself.&#10;E.g. I love the cahuu plattform,Let other users know something&#10;about yourself.&#10;E.g. I love the cahuu plattform
+Important: visible for other users,Important: visible for other users
+Firstname,Firstname
+Lastname,Lastname
+Username,Username
+Email,Email
+Phone,Phone
+Password,Password
+Birthdate,Birthdate
+Address,Address
+Street,Street
+Number,Number
+Zipcode,Zipcode
+City,City
+Push-Notifications,Push-Notifications
+My orders,My orders
+New orders,New orders
+Delete my profile,Delete my profile
+Companyname,Companyname
+UID Number,UID Number
+Subject to VAT?,Subject to VAT?
+VAT number,VAT number
+Statistics,Statistics
+Orders placed,Orders placed
+safed time,safed time
+x hours x minutes,x hours x minutes
+Orders done,Orders done
+Earnings,Earnings
+Received reviews,Received reviews
+Language setting,Language setting
+German,German
+English,English
+Payments,Payments
+Your payment method,Your payment method
+Creditcard,Creditcard
+First- & Lastname,First- & Lastname
+Number,Number
+CCV-Code,CCV-Code
+Twint,Twint
+PostFinance,PostFinance
+paymentmethods more words?,paymentmethods more words?
+Receive payment method,Receive payment method
+"Provide this method only, if you want to execute&#10;orders from others to earn money","Provide this method only, if you want to execute&#10;orders from others to earn money"
+Bankaccount (IBAN),Bankaccount (IBAN)
+Invoice,Invoice
+paymentmethods more words?,paymentmethods more words?
+No account yet?,No account yet?
+Register now,Register now
+Create free account and join the cahuu community.,Create free account and join the cahuu community.
+Login,Login
+Email / username,Email / username
+Password,Password
+Forgotten your password?,Forgotten your password?
+Skip for now,Skip for now
+Login now,Login now
+Reset password,Reset password
+Enter your username or email,Enter your username or email
+Afterwards a new password will be sent to&#10;your email.,Afterwards a new password will be sent to&#10;your email.
+Confirm reset,Confirm reset
+Your password has successfully&#10;been sent to your email address.,Your password has successfully&#10;been sent to your email address.
+Please also check your spam&#10;folder.,Please also check your spam&#10;folder.
+Back to login,Back to login
+Account information,Account information
+Firstname,Firstname
+Lastname,Lastname
+Username,Username
+Email,Email
+Phone,Phone
+Password,Password
+Birthdate,Birthdate
+Address,Address
+Street,Street
+Number,Number
+Zipcode,Zipcode
+City,City
+Push-Notifications,Push-Notifications
+My orders,My orders
+New orders,New orders
+Delete my profile,Delete my profile
+Companyname,Companyname
+UID Number,UID Number
+Subject to VAT?,Subject to VAT?
+VAT number,VAT number
+Your address,Your address
+Skip for now,Skip for now
+Continue,Continue
+Payment method,Payment method
+Creditcard,Creditcard
+Twint,Twint
+Postfinance,Postfinance
+Receive payment method,Receive payment method
+Provide this method only, if you want to execute&#10;orders from others to earn money,Provide this method only, if you want to execute&#10;orders from others to earn money
+Bankaccount (IBAN),Bankaccount (IBAN)
+Invoice,Invoice
+Verify your account,Verify your account
+We are almost there!,We are almost there!
+Now please verify your account&#10;by clicking on the link in the&#10;received email from us.,Now please verify your account&#10;by clicking on the link in the&#10;received email from us.
+Please also check your spam&#10;folder.,Please also check your spam&#10;folder.
+I didn't receive email,I didn't receive email
+Close,Close
